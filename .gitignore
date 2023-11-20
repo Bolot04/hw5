@@ -1,0 +1,5 @@
+venv
+settigns.ini
+.idea
+__pycache__
+__cache__/
